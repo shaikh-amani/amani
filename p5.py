@@ -1,0 +1,1 @@
+cm=float(input)
